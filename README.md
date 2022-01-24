@@ -5,18 +5,18 @@ Beautiful Phone E-Store App UI with support for dark and light mode. Created by 
 ## How it looks:
 #### Light mode ⚪ :
 
-https://user-images.githubusercontent.com/94771855/150687938-0c6702ca-46da-4295-9d06-7afdc6f5c554.mp4
+https://user-images.githubusercontent.com/94771855/150832796-712f3906-a84f-4779-9835-e17244adf6b6.mp4
 
-<img width="391" alt="phonestore1" src="https://user-images.githubusercontent.com/94771855/150687766-23ef5c3f-1a8e-47a8-8685-3f58be372583.png">
-<img width="391" alt="phonestore4" src="https://user-images.githubusercontent.com/94771855/150687770-77911547-b601-4dab-bca5-044dbf92a627.png">
+<img width="391" alt="phonestore1" src="https://user-images.githubusercontent.com/94771855/150833068-97fff803-b758-46a7-829e-386dd544d06f.png">
+<img width="391" alt="phonestore4" src="https://user-images.githubusercontent.com/94771855/150833065-76b10a9f-5718-4441-a322-f3163899c817.png">
 
 
 #### Dark mode ⚫ :
 
-https://user-images.githubusercontent.com/94771855/150689734-d6e8e54e-d4f3-4779-96ef-f28dee7562f0.mp4
+https://user-images.githubusercontent.com/94771855/150832861-a9ff4846-e5e9-44d2-9bb5-b50721492ce9.mp4
 
-<img width="391" alt="phonestore2" src="https://user-images.githubusercontent.com/94771855/150689741-da9d290c-23d6-40a5-932a-a2bbdc1c43c3.png">
-<img width="391" alt="phonestore3" src="https://user-images.githubusercontent.com/94771855/150689742-fc59246c-d928-4711-9644-8b58ba84ebad.png">
+<img width="391" alt="phonestore2" src="https://user-images.githubusercontent.com/94771855/150832906-c433e69a-02cd-47b7-ae7a-cae4962c82e6.png">
+<img width="391" alt="phonestore3" src="https://user-images.githubusercontent.com/94771855/150832902-c76760ea-6893-4ed1-b33f-854366f3b4fb.png">
 
 ## Features:
 - Dark and Light Mode friendly
@@ -28,5 +28,6 @@ https://user-images.githubusercontent.com/94771855/150689734-d6e8e54e-d4f3-4779-
 - Null safety
 
 ### UI inspiration from https://github.com/MonsieurZbanowanYY/Car-Rental-App-UI-Flutter
+#### Bottom navbar created by Martin Gogołowicz https://github.com/MonsieurZbanowanYY
 #### README template by Martin Gogołowicz https://github.com/MonsieurZbanowanYY
 
