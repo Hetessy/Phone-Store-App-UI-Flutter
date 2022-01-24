@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 Column buildPopularPhone(Size size, bool isDarkMode) {
   return Column(
     children: [
-      buildCategory('Popular Flowers', size, isDarkMode),
+      buildCategory('Popular Phones', size, isDarkMode),
       Padding(
         padding: EdgeInsets.only(
           top: size.height * 0.03,
