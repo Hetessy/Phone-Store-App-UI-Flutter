@@ -2,10 +2,10 @@ import 'package:phone_store_app_ui/widgets/homePage/build_phone.dart';
 import 'package:phone_store_app_ui/widgets/homePage/build_category.dart';
 import 'package:flutter/material.dart';
 
-Column buildPopularFlower(Size size, bool isDarkMode) {
+Column Phone(Size size, bool isDarkMode) {
   return Column(
     children: [
-      buildCategory('Popular Flowers', size, isDarkMode),
+      buildCategory('Popular Phones', size, isDarkMode),
       Padding(
         padding: EdgeInsets.only(
           top: size.height * 0.03,
