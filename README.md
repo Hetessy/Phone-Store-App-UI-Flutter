@@ -28,5 +28,6 @@ https://user-images.githubusercontent.com/94771855/150832861-a9ff4846-e5e9-44d2-
 - Null safety
 
 ### UI inspiration from https://github.com/MonsieurZbanowanYY/Car-Rental-App-UI-Flutter
+#### Bottom navbar created by Martin Gogołowicz https://github.com/MonsieurZbanowanYY
 #### README template by Martin Gogołowicz https://github.com/MonsieurZbanowanYY
 
