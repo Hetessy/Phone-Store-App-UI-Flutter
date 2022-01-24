@@ -134,7 +134,7 @@ class _HomePageState extends State<HomePage> {
               size,
               isDarkMode,
             ),
-            buildPopularFlower(
+            buildPopularPhone(
               size,
               isDarkMode,
             ),
