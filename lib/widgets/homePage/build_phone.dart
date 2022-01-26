@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:phone_store_app_ui/screens/details_page.dart';
 
-Padding buildFlower(int i, Size size, bool isDarkMode) {
+Padding buildPhone(int i, Size size, bool isDarkMode) {
   return Padding(
     padding: EdgeInsets.only(
       right: size.width * 0.03,

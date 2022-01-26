@@ -31,7 +31,7 @@ Widget buildAllPhones(Size size, bool isDarkMode) {
                 ),
                 itemCount: phones.length,
                 itemBuilder: (context, i) {
-                  return buildFlower(
+                  return buildPhone(
                     i,
                     size,
                     isDarkMode,

@@ -21,7 +21,7 @@ Column buildPopularPhone(Size size, bool isDarkMode) {
             scrollDirection: Axis.horizontal,
             itemCount: 3,
             itemBuilder: (context, i) {
-              return buildFlower(
+              return buildPhone(
                 i,
                 size,
                 isDarkMode,
